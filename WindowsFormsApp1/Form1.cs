@@ -31,10 +31,7 @@ namespace WindowsFormsApp1
             misAlumnos.Agregar(miAlumno);
         }
     }
-
-
-    
-    
+   
     class Alumno
     {
         private string nombre;
@@ -107,8 +104,4 @@ namespace WindowsFormsApp1
             }
         }
     }
-
-
-
-
 }
